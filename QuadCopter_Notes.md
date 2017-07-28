@@ -1,0 +1,1 @@
+- Two motors must turn clockwise and two motors must turn counter-clockwise
