@@ -1,3 +1,3 @@
 # A-Tern!    
-[alt text](http://https://media.nationalgeographic.org/assets/photos/000/277/27700.jpgimg.png)
+<a href="https://emberjs.com"><img width="300" src="https://raw.githubusercontent.com/emberjs/website/master/source/images/brand/ember_Ember-Light.png"></a>
 Code for my quadcopter called The Artic Tern (A-Tern for short)
