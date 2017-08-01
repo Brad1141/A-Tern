@@ -20,3 +20,7 @@
 - light weight, yet sturdy framework
 - some sort of tiny camera to mount ontop aircraft
 - a way to mesure battery percentage
+
+#Things to by
+- Arduino Uno (and link)
+- Adafruit Motor Shield
