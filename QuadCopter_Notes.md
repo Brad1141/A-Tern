@@ -21,6 +21,3 @@
 - some sort of tiny camera to mount ontop aircraft
 - a way to mesure battery percentage
 
-# Things to buy
-- Arduino Uno (and link)
-- Adafruit Motor Shield
