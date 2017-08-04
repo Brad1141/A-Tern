@@ -23,6 +23,8 @@ Adafruit_MotorSheild AFMS = Adafruit_MotorSheild();//created a new motor sheild 
 
 void setup() {
   
+  AFMS.begin();//start the AFMS object created in line 16
+  
   //establish pins as inputs
   pinMode(pin10, INPUT);
   pinMode(pin11, INPUT);
@@ -110,8 +112,6 @@ void loop() {
     
     delay(1);
 }
-
-
 
 
 
