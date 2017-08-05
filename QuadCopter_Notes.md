@@ -11,7 +11,7 @@
   (For example to go right increase the rpm of the motors on the right side)
 
 # Topics to research 
-- how to receive infrared signals using Arduino
+- how to receive radio controlled(RC) signals using Arduino
 - what are the best lightweight yet powerfull motors to use for quadcopter
 - lightweight, yet strong battery
 - how to install and use a motor shield
